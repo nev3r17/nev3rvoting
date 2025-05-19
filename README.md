@@ -14,7 +14,7 @@
 
 # 1. Клонируйте репозиторий
 ```bash
-git clone https://github.com/your-username/example-voting-app.git
+git clone https://github.com/nev3r17/nev3rvoting)
 cd example-voting-app
 ```
 # 2. Запустите контейнеры
