@@ -15,7 +15,7 @@
 # 1. Клонируйте репозиторий
 ```bash
 git clone https://github.com/nev3r17/nev3rvoting)
-cd example-voting-app
+cd nev3rvoting
 ```
 # 2. Запустите контейнеры
 
